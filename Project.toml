@@ -1,0 +1,13 @@
+
+
+name = "drr"
+uuid = 
+authors = ["chenyk <chenyk1990@gmail.com>"]
+version = "0.0.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+
+
+[compat]
+DSP = "~0.6"
