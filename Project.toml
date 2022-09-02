@@ -3,7 +3,7 @@
 name = "drr"
 uuid = "14b8a8f1-9102-5b29-a752-f990bacb7fe9"
 authors = ["chenyk <chenyk1990@gmail.com>"]
-version = "0.0.0"
+version = "0.0.1"
 
 [deps]
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
